@@ -8,7 +8,7 @@ public class TestSuite3 {
 
 	@Test
 	public void test() {
-	System.out.println("test12");
+	System.out.println("test123");
 	}
 
 }
